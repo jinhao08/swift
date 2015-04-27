@@ -19,7 +19,10 @@
                             <view contentMode="redraw" translatesAutoresizingMaskIntoConstraints="NO" id="3aG-pb-un8" customClass="FaceView" customModule="Happiness" customModuleProvider="target">
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+<<<<<<< HEAD
                                 <gestureRecognizers/>
+=======
+>>>>>>> c711bde8aac12ac8c89688f042a5b1df8b656454
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="color" keyPath="color">
                                         <color key="value" red="1" green="0.50196081399917603" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -31,9 +34,12 @@
                                         <real key="value" value="0.80000000000000004"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
+<<<<<<< HEAD
                                 <connections>
                                     <outletCollection property="gestureRecognizers" destination="o6z-3F-lzF" appends="YES" id="mwN-P6-SC6"/>
                                 </connections>
+=======
+>>>>>>> c711bde8aac12ac8c89688f042a5b1df8b656454
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -49,6 +55,7 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Q1i-tR-Dsu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+<<<<<<< HEAD
                 <panGestureRecognizer minimumNumberOfTouches="1" id="o6z-3F-lzF">
                     <connections>
                         <action selector="changeHappiness:" destination="bOO-5g-Q4w" id="9r5-hY-IEf"/>
@@ -56,6 +63,10 @@
                 </panGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="-113" y="239"/>
+=======
+            </objects>
+            <point key="canvasLocation" x="31" y="143"/>
+>>>>>>> c711bde8aac12ac8c89688f042a5b1df8b656454
         </scene>
     </scenes>
 </document>
