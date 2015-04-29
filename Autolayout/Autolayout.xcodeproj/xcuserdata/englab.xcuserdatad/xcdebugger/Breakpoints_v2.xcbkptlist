@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Autolayout/ViewController.swift"
+            timestampString = "452032123.394124"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autolayout.ViewController.secure.materializeForSet : Swift.Bool"
+                  moduleName = "Autolayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/englab/dev/workspace/git/swift/Autolayout/Autolayout/ViewController.swift"
+                  timestampString = "452032227.41884"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autolayout.ViewController.init (Autolayout.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Autolayout.ViewController"
+                  moduleName = "Autolayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/englab/dev/workspace/git/swift/Autolayout/Autolayout/ViewController.swift"
+                  timestampString = "452032227.418953"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "722">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Autolayout.ViewController.init (Autolayout.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Autolayout.ViewController"
+                  moduleName = "Autolayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/englab/dev/workspace/git/swift/Autolayout/Autolayout/ViewController.swift"
+                  timestampString = "452032227.419118"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "665">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
